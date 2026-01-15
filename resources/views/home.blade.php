@@ -11,7 +11,9 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="mb-4">Tasks Manager</h1>
+        <h1 class="mb-4">
+            <a href="/">Tasks Manager - Coalition Test</a>
+        </h1>
         
         <!-- Flash Messages -->
         @if (session('success'))
